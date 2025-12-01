@@ -6,13 +6,7 @@ A pixel art puzzle-platformer created for **Game Off 2025**.
 
 In this game, you play as a lost bird trying to escape a mysterious trail. Use your hammer to smash the ground, create shockwaves, and vault over obstacles!
 
-## 🎮 Controls
-
-- **Move:** `A` / `D` or `Arrow Keys`
-- **Jump:** `Space`
-- **Smash / Launch:** `Mouse Left Click` (Hold to target/charge)
-
----
+--
 
 ## ⚖️ License Summary (许可协议摘要)
 
