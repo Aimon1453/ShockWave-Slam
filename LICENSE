@@ -1,0 +1,44 @@
+This repository uses a mixed licensing model. Please read the following terms carefully to understand your rights regarding the code and the artistic assets.
+
+--------------------------------------------------------------------------
+1. SOURCE CODE (MIT License)
+--------------------------------------------------------------------------
+The source code files (including but not limited to C# scripts, shaders, compute shaders, and Unity project configuration files) are licensed under the MIT License.
+
+Copyright (c) 2025 Slyra (GitHub: Aimon1453)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+2. ARTISTIC ASSETS (Proprietary / All Rights Reserved)
+--------------------------------------------------------------------------
+The original visual assets (including but not limited to pixel art sprites, character designs, animations, backgrounds, tilesets, and UI graphics) contained in this repository are PROPRIETARY.
+
+They are NOT covered by the MIT License stated above.
+
+Copyright (c) 2025 Slyra (GitHub: Aimon1453). All Rights Reserved.
+
+You may NOT use, copy, modify, distribute, or sell these original artistic assets for any purpose (commercial or non-commercial) without explicit written permission from the copyright holder.
+
+--------------------------------------------------------------------------
+3. THIRD-PARTY ASSETS
+--------------------------------------------------------------------------
+This project may contain third-party assets (such as sound effects, music, or fonts) that are licensed under their own respective terms (e.g., CC0, CC-BY). 
+
+Please refer to the README.md file or the Credits section within the game for specific attribution and license information regarding third-party content.
