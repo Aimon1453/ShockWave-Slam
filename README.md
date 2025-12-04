@@ -21,6 +21,7 @@ This project uses a **mixed licensing model**:
 ## 💖 Credits
 
 ### 🎨 Art & Fonts
+- **Character Inspiration & Orginal Palette** by: Doph (@DophsArt on X / u/Hantonar on Reddit)
 - **Font:** "Public Pixel" by GGBotNet (CC0)
 
 ### 🎵 Music & SFX
